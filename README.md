@@ -2,7 +2,12 @@
 
 **Full backend implementation for Subscription Management System API with Nodejs and Express.**
 
-Features:
+**Main tools:**
+- Nodejs
+- Expressjs
+- MongoDB
+
+**Features:**
 - Authentication flow with JWTs
 - Store the data in MongoDB database
 - ORM integration with Mongoose
