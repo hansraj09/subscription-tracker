@@ -1,4 +1,6 @@
-Full backend implementation for Subscription Management System API with Nodejs and Express.
+# Subscription Management System API
+
+**Full backend implementation for Subscription Management System API with Nodejs and Express.**
 
 Features:
 - Authentication flow with JWTs
@@ -11,4 +13,4 @@ Features:
 - Nodemailer to send reminder emails at regular intervals
 
 
-Credit: Tutorial from Javascript Mastery on Youtube.
+*Credit*: Tutorial from Javascript Mastery on Youtube.
